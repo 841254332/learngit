@@ -23,6 +23,6 @@ int main() {
     p1 = &a;
     p2 = &b;
     swap(a, b);
-    cout<<a<<","<<b;
+    cout<<a<<","<<b<<endl;
     return 0;
 }
