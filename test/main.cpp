@@ -7,9 +7,12 @@
 //
 
 #include <iostream>
-
-int main(int argc, const char * argv[]) {
+using namespace std;
+void swap(int m, int n){
+    
+}
+int main() {
     // insert code here...
-    std::cout << "Hello, World!\n";
+    cout << "Hello, World!\n";
     return 0;
 }
