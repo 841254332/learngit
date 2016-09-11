@@ -22,7 +22,13 @@ int main() {
     b = 2;
     p1 = &a;
     p2 = &b;
+//    cout<<p1<<endl;
+//    p1=p2;
+//    cout<<p1<<endl;
     swap(a, b);
     cout<<a<<","<<b<<endl;
+//    cout<<p1<<endl;
+//    cout<<&p1<<endl;
+//    cout<<*p1<<endl;
     return 0;
 }
